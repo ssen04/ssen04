@@ -65,5 +65,5 @@
 
 
 <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="50px" alt="Git"/>&nbsp;<b height="50px">GitHub Stats</b></p>
-<![[Sukanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssen04&show_icons=true&theme=radical)](https://github.com/ssen04/github-readme-stats)>
+<!-- [[Sukanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssen04&show_icons=true&theme=radical)](https://github.com/ssen04/github-readme-stats) -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ssen04&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /></p>
