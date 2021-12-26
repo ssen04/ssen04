@@ -1,5 +1,4 @@
-# Hi! It's Sukanya <img src= "https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width= "70" height= "70">  
-
+# Hi! It's Sukanya <img src= "https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width= "70" height= "70">  
 
 
 ## Some Fun Facts about me!!
@@ -10,7 +9,7 @@
 
 
 
-## Connect with me:
+## Connect with me: <img src= "https://media.giphy.com/media/reJXZ8T1oUqinGzZnY/giphy.gif" width= "50" height= "40">
 <p align="left">
 <a href="https://www.linkedin.com/in/sukanya-sen-15843a192/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sukanya-sen" height="30" width="40" /></a>
 </p>
@@ -74,7 +73,7 @@
 
 <br />
 
+##  GitHub Stats: <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="50px" alt="Git"/><img src= "https://media.giphy.com/media/AynUwd5uKhIevEWx54/giphy.gif" width="50px" alt="GitGraph"/>&nbsp;<b height="70px"> <br>
 
-<img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="50px" alt="Git"/>&nbsp;<b height="50px">GitHub Stats</b></p>
 <!-- [[Sukanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssen04&show_icons=true&theme=radical)](https://github.com/ssen04/github-readme-stats) -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ssen04&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /></p>
