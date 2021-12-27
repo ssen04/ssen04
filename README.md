@@ -1,5 +1,5 @@
 # Hi! It's Sukanya <img src= "https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width= "70" height= "70">  
-<img src="https://media.giphy.com/media/okvuC4pXs205JSUcJy/giphy.gif" alt="banner that says Sukanya Sen - Software Engineer and Content Creator">
+<img src="https://media.giphy.com/media/g3ETNlJz0vRYhyIAY7/giphy.gif" align="center" alt="banner that says Sukanya Sen - Software Engineer and Content Creator">
 
 
 
