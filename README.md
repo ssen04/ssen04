@@ -10,6 +10,7 @@
 
 
 
+<br>
 
 ## Connect with me: <img src= "https://media.giphy.com/media/reJXZ8T1oUqinGzZnY/giphy.gif" width= "50" height= "40">
 <p align="left">
