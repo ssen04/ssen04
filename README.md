@@ -1,9 +1,7 @@
 # Hi! It's Sukanya <img src= "https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width= "70" height= "70">  
-<img src="https://media.giphy.com/media/g3ETNlJz0vRYhyIAY7/giphy.gif" align="center" alt="banner that says Sukanya Sen - Software Engineer and Content Creator">
 
 
-
-## Some Fun Facts about me!! <img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true">
+## Some Fun Facts about me!! <img align="left" width="150" height="150" src="https://media.giphy.com/media/WKJ06jd8gYS4pyuPpy/giphy.gif">
 
 - 🔭 I'm a Junior Year Undergrad Student in Computer Science and Mathematics at UBC
 - 📫 Reach me at **sensukanya2001@gmail.com**
