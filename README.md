@@ -57,6 +57,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Git" height="30" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="Git" height="30" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/R.svg" alt="R" height="30" />
 
 
 
