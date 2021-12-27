@@ -77,8 +77,6 @@
 
 <br>
 
-
-
 ## Machine Learning ToolBox: <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="25px"><img src="https://media.giphy.com/media/6LMDGsUHsdRC0/giphy.gif" width="50px">
 &nbsp;&nbsp;<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="Numpy" height="30" /> 
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" alt="Matplotlib" height="30" /> 
