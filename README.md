@@ -4,7 +4,7 @@
 ## Some Fun Facts about me!!
 
 - 🔭 I'm a Junior Year Undergrad Student in Computer Science and Mathematics at UBC
-- 📫 Reach me at sensukanya2001@gmail.com
+- 📫 Reach me at **sensukanya2001@gmail.com**
 - ⚡ Fun fact: I can solve the Rubik's Cube!
 
 
