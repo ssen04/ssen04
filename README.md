@@ -1,8 +1,7 @@
 # Hi! It's Sukanya <img src= "https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width= "70" height= "70">  
 
 
-## Some Fun Facts about me!! <img align="left" width="150" height="150" src="https://media.giphy.com/media/wY9JZ3GhzgmwATTfUq/giphy.gif">
-
+## Some Fun Facts about me!! <img align="right" width="150" height="150" src="https://media.giphy.com/media/wY9JZ3GhzgmwATTfUq/giphy.gif">
 - 🔭 I'm a Junior Year Undergraduate Student in Computer Science and Mathematics at **University Of British Columbia** 
 - 🎯 I'm a Software Developer at **Ballard Powers** 
 - 📫 Reach me at **sensukanya2001@gmail.com**
