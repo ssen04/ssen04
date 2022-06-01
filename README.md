@@ -3,6 +3,7 @@
 
 ## Some Fun Facts about me!! 
 <!--- img align="left" width="150" height="150" src="https://media.giphy.com/media/wY9JZ3GhzgmwATTfUq/giphy.gif"--->
+<img align="left" width="150" height="150" src="https://media.giphy.com/media/wY9JZ3GhzgmwATTfUq/giphy.gif">
 
 - 🔭 I'm a Junior Year Undergraduate Student in Computer Science and Mathematics at **University Of British Columbia** 
 - 🎯 I'm a Software Developer at **Ballard Powers** 
@@ -18,6 +19,9 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/sukanya-sen-15843a192/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sukanya-sen" height="30" width="40" /></a>
 <a href="https://www.facebook.com/sukanya.sen.2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook-alt.svg" alt="sukanya-sen" height="30" width="40" /></a>
+  
+  
+ 
 </p>
 
 
