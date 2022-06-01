@@ -23,7 +23,7 @@
 
 
 
-## Languages and Tools: <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="25px"><img src="https://media.giphy.com/media/6LMDGsUHsdRC0/giphy.gif" width="50px">
+## Languages and Tools: <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="25px" height = "25px"><img src="https://media.giphy.com/media/6LMDGsUHsdRC0/giphy.gif" width="50px" height = "25px">
 
 &nbsp;&nbsp;<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="40" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="40" />
@@ -35,7 +35,7 @@
 
 <br>
 
-## Development Toolbox: <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="25px"><img src="https://media.giphy.com/media/6LMDGsUHsdRC0/giphy.gif" width="50px">
+## Development Toolbox: <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="25px" height = "25px"><img src="https://media.giphy.com/media/6LMDGsUHsdRC0/giphy.gif" width="50px" height = "25px">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Zilla+Slab&color=ff8c00&size=30&width=500&lines=FrontEnd)](https://git.io/typing-svg)
 
@@ -80,7 +80,7 @@
 
 <br>
 
-## Machine Learning ToolBox: <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="25px"><img src="https://media.giphy.com/media/6LMDGsUHsdRC0/giphy.gif" width="50px">
+## Machine Learning ToolBox: <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="25px" height = "25px"><img src="https://media.giphy.com/media/6LMDGsUHsdRC0/giphy.gif" width="50px" height = "25px">
 &nbsp;&nbsp;<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="Numpy" height="30" /> 
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" alt="Matplotlib" height="30" /> 
 
@@ -89,7 +89,7 @@
 
 <br />
 
-## GitHub Stats: <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif"  width="50px" alt="Git"/><img src= "https://media.giphy.com/media/AynUwd5uKhIevEWx54/giphy.gif" width="50px" alt="GitGraph"/>&nbsp;<b height="70px"> <br>
+## GitHub Stats: <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif"  width="50px" height = "50px" alt="Git"/><img src= "https://media.giphy.com/media/AynUwd5uKhIevEWx54/giphy.gif" width="50px" height = "50px" alt="GitGraph"/>&nbsp;<b height="70px"> <br>
 
 <!-- [[Sukanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssen04&show_icons=true&theme=radical)](https://github.com/ssen04/github-readme-stats) -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ssen04&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /></p>
